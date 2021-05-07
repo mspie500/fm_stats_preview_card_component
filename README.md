@@ -1,1 +1,1 @@
-# fm_stats_preview_card_component
+# Frontend Mentor - stats preview card component
